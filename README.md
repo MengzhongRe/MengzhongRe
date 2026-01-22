@@ -54,7 +54,7 @@ I am a Master's student in **Logic** at **Sun Yat-sen University**, exploring **
 | 2026-01-15 | **LoRA: Low-Rank Adaptation of Large Language Models** | [PDF](https://arxiv.org/abs/2106.09685) | `LoRA,fine_tuning` |
 | 2026-01-16 | **QLoRA: Efficient Finetuning of Quantized LLMs** | [PDF](https://arxiv.org/abs/2305.14314) | `QLoRA,Quantization,fine_tuning` |
 
-👉 *Check my full notes: [AI-Paper-Notes](https://github.com/MengzhongRe/AI-Paper-Notes)*
+👉 *Check my full notes: [AI-Paper-Notes](https://github.com/MengzhongRe/AI-papers-notes)*
 
 ---
 
