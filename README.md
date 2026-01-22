@@ -1,18 +1,21 @@
 ### Hi there, I'm Meng Yi (孟毅) 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=200&section=header&text=Logic%20Meets%20AI&fontSize=70&fontColor=ffffff&desc=Master%20Student%20@%20SYSU%20%7C%20Neuro-Symbolic%20AI%20Enthusiast&descSize=20&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=200&section=header&text=Logic%20Meets%20AI&fontSize=70&fontColor=ffffff&desc=SYSU%20Master%20%7C%20Logic%20%26%20LLM%20Reasoning&descSize=20&fontAlignY=40" width="100%"/>
 </div>
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me / 关于我
 
-I am a Master's student in **Logic** at **Sun Yat-sen University (SYSU)**, bridging the gap between **Formal Logic** and **Deep Learning**. 
+I am a Master's student in **Logic** at **Sun Yat-sen University**, exploring **Neuro-Symbolic AI**.
+我是**中山大学逻辑学硕士**，致力于探索**逻辑推理与深度学习**的结合。
 
-*   🔭 I’m currently working on **LLM Reasoning (CoT & ToT)** and **Parameter-Efficient Fine-Tuning (QLoRA)**.
-*   🧠 My research interest: **Neuro-Symbolic AI**, **AI Alignment**, and **Logical Consistency in LLMs**.
-*   🛠️ Tech Stack: **PyTorch, Hugging Face, Linux, Docker**.
+- 🔭 **Current Focus:** LLM Reasoning (CoT/ToT), Parameter-Efficient Fine-Tuning (QLoRA).
+  <br>*(主攻方向：大模型推理链、参数高效微调)*
+- 🧠 **Research Interest:** **AI Alignment** & **Logical Consistency**.
+  <br>*(研究兴趣：AI对齐、逻辑一致性、反事实推理)*
+- 🛠️ **Tech Stack:** PyTorch, Hugging Face, Linux (WSL2), Docker.
 
 ---
 
@@ -23,27 +26,24 @@ I am a Master's student in **Logic** at **Sun Yat-sen University (SYSU)**, bridg
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/WandB-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 📚 Recent Paper Reading (Updated Weekly)
+### 📚 Paper Reading / 论文复现笔记
 
 | Date | Paper | Key Concept |
 | :--- | :--- | :--- |
-| 2023 | **Tree of Thoughts** | `Search Algorithm` `System 2` |
-| 2023 | **ReAct** | `Tool Use` `Reasoning & Acting` |
-| 2022 | **Chain-of-Thought** | `Prompt Engineering` `Reasoning` |
-| 2021 | **LoRA / QLoRA** | `Matrix Decomposition` `Quantization` |
+| 2023 | **Tree of Thoughts** | `Search Algorithm` `System 2` (思维树搜索) |
+| 2023 | **ReAct** | `Tool Use` `Reasoning & Acting` (推理与行动协同) |
+| 2022 | **Chain-of-Thought** | `Prompt Engineering` (思维链) |
+| 2021 | **LoRA / QLoRA** | `Matrix Decomposition` (低秩微调) |
 
-👉 *Check my full notes here: [AI-Paper-Notes](https://github.com/MengzhongRe/AI-Paper-Notes)*
+👉 *Check my full notes: [AI-Paper-Notes](https://github.com/MengzhongRe/AI-Paper-Notes)*
 
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MengzhongRe&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengzhongRe&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
