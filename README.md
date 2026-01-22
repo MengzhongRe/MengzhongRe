@@ -33,12 +33,26 @@ I am a Master's student in **Logic** at **Sun Yat-sen University**, exploring **
 
 ### 📚 Paper Reading / 论文复现笔记
 
-| Date | Paper | Key Concept |
-| :--- | :--- | :--- |
-| 2023 | **Tree of Thoughts** | `Search Algorithm` `System 2` (思维树搜索) |
-| 2023 | **ReAct** | `Tool Use` `Reasoning & Acting` (推理与行动协同) |
-| 2022 | **Chain-of-Thought** | `Prompt Engineering` (思维链) |
-| 2021 | **LoRA / QLoRA** | `Matrix Decomposition` (低秩微调) |
+### Phase 1: The Foundation (BERT & GPT)
+| Date | Paper Title | Links | Tags |
+| :--- | :--- | :--- | :--- |
+| 2025-12-30 | **Attention Is All You Need** | [PDF](https://arxiv.org/pdf/1706.03762.pdf) | `Transformer` | 
+| 2025-12-30 | **BERT: Pre-training of Deep Bidirectional Transformers** | [PDF](https://arxiv.org/pdf/1810.04805.pdf) | `Encoder` |
+| 2026-01-08 | **Language Models are Few-Shot Learners (GPT-3)** | [PDF](https://arxiv.org/pdf/2005.14165.pdf) | `Decoder` |
+
+### Phase 2: Reasoning & Agents
+| Date | Paper Title | Links | Tags |
+| :--- | :--- | :--- | :--- |
+| 2026-01-09 | **Chain-of-Thought Prompting Elicits Reasoning** | [PDF](https://arxiv.org/pdf/2201.11903.pdf) | `CoT` |
+| 2026-01-10 | **Self-Consistency Improves Chain of Thought Reasoning in Language Models** | [PDF](https://arxiv.org/abs/2203.11171) | `CoT-SC` |
+| 2026-01-13 | **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** | [PDF](https://arxiv.org/abs/2305.10601) | `ToT` |
+| 2026-01-14 | **ReAct: Synergizing Reasoning and Acting in Language Models** | [PDF](https://arxiv.org/abs/2210.03629) | `Agent、tools_call` |
+
+### Phase 3: Fine_tunning Techniques (In Progress)
+| Date | Paper Title | Links | Tags | 
+| :--- | :--- | :--- | :--- |
+| 2026-01-15 | **LoRA: Low-Rank Adaptation of Large Language Models** | [PDF](https://arxiv.org/abs/2106.09685) | `LoRA,fine_tuning` |
+| 2026-01-16 | **QLoRA: Efficient Finetuning of Quantized LLMs** | [PDF](https://arxiv.org/abs/2305.14314) | `QLoRA,Quantization,fine_tuning` |
 
 👉 *Check my full notes: [AI-Paper-Notes](https://github.com/MengzhongRe/AI-Paper-Notes)*
 
