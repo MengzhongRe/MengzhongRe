@@ -1,7 +1,7 @@
 ### Hi there, I'm Meng Yi (孟毅) 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=200&section=header&text=Logic%20Meets%20AI&fontSize=70&fontColor=ffffff&desc=SYSU%20Master%20%7C%20Logic%20%26%20LLM%20Reasoning&descSize=20&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=200&section=header&text=Logic%20Meets%20AI&fontSize=70&fontColor=ffffff&desc=Master%20Student%20@%20SYSU%20%7C%20Neuro-Symbolic%20AI%20Enthusiast&descSize=20&fontAlignY=40" width="100%"/>
 </div>
 
 ---
